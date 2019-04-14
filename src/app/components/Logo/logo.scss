@@ -1,0 +1,70 @@
+@import "keyframes";
+
+/* Animation properties */
+$time-animation: 5s;
+
+$star-animation: star $time-animation ease-out;
+$wars-animation: wars $time-animation ease-out ;
+$byline-animation: move-bylin $time-animation linear 1;
+$byline-letters-animation: spin-letters $time-animation linear 1;
+
+
+.starwars-logo {
+  perspective: 500px;
+  transform-style: preserve3d;
+  height: 17em;
+  left: 50%;
+  position: absolute;
+  top: 35%;
+  transform: translate(-50%, -50%);
+  width: 34em;
+
+  .star {
+    position: absolute;
+    width: 100%;
+    top: -0.75em;
+    animation: $star-animation;
+  }
+
+  .wars {
+    position: absolute;
+    width: 100%;
+    bottom: -0.5em;
+    animation:$wars-animation;
+  }
+
+  .byline {
+    position: absolute;
+    color: #fff;
+    font-family: "ITC Serif Gothic", Lato;
+    font-size: 2.25em;
+    left: -2em;
+    letter-spacing: 0.4em;
+    right: -2em;
+    text-align: center;
+    text-transform: uppercase;
+    top: 41%;
+
+    animation:$byline-animation;
+
+    span{
+      display: inline-block;
+      animation: $byline-letters-animation;
+    }
+  }
+}
+
+  /*** Media queries for adjusting to different screen sizes ***/
+  @media only screen and (max-width: 600px) {
+    .starwars-logo {
+      font-size: 10px;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    .starwars-logo {
+      font-size: 7px;
+    }
+  }
+  
+  
