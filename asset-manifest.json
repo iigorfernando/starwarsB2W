@@ -1,5 +1,5 @@
 {
-  "main.css": "/desafiob2w/static/css/main.b171c1d4.chunk.css",
+  "main.css": "/desafiob2w/static/css/main.e98e56b0.chunk.css",
   "main.js": "/desafiob2w/static/js/main.42c4c673.chunk.js",
   "main.js.map": "/desafiob2w/static/js/main.42c4c673.chunk.js.map",
   "runtime~main.js": "/desafiob2w/static/js/runtime~main.5f787e8e.js",
@@ -7,9 +7,9 @@
   "static/js/2.04bb237e.chunk.js": "/desafiob2w/static/js/2.04bb237e.chunk.js",
   "static/js/2.04bb237e.chunk.js.map": "/desafiob2w/static/js/2.04bb237e.chunk.js.map",
   "index.html": "/desafiob2w/index.html",
-  "precache-manifest.e6fe01dbff2ee76fa046b7d3e42a2f53.js": "/desafiob2w/precache-manifest.e6fe01dbff2ee76fa046b7d3e42a2f53.js",
+  "precache-manifest.ca4c922929fe4e0b1a4e65686d37fa34.js": "/desafiob2w/precache-manifest.ca4c922929fe4e0b1a4e65686d37fa34.js",
   "service-worker.js": "/desafiob2w/service-worker.js",
-  "static/css/main.b171c1d4.chunk.css.map": "/desafiob2w/static/css/main.b171c1d4.chunk.css.map",
+  "static/css/main.e98e56b0.chunk.css.map": "/desafiob2w/static/css/main.e98e56b0.chunk.css.map",
   "static/media/star.svg": "/desafiob2w/static/media/star.ec263c0f.svg",
   "static/media/wars.svg": "/desafiob2w/static/media/wars.7a4f0f41.svg"
 }

@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/desafiob2w/static/js/runtime~main.5f787e8e.js"
   },
   {
-    "revision": "b11231116a9a631af3f1",
+    "revision": "1e903541c71a8a64cf5f",
     "url": "/desafiob2w/static/js/main.42c4c673.chunk.js"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/desafiob2w/static/js/2.04bb237e.chunk.js"
   },
   {
-    "revision": "b11231116a9a631af3f1",
-    "url": "/desafiob2w/static/css/main.b171c1d4.chunk.css"
+    "revision": "1e903541c71a8a64cf5f",
+    "url": "/desafiob2w/static/css/main.e98e56b0.chunk.css"
   },
   {
-    "revision": "ccde1e31725322a7eeaf42f2877d0663",
+    "revision": "41928264ea10489ed021e9421335c57c",
     "url": "/desafiob2w/index.html"
   }
 ];
