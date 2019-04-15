@@ -1,15 +1,15 @@
 {
-  "main.css": "/desafiob2w/static/css/main.e98e56b0.chunk.css",
-  "main.js": "/desafiob2w/static/js/main.42c4c673.chunk.js",
-  "main.js.map": "/desafiob2w/static/js/main.42c4c673.chunk.js.map",
-  "runtime~main.js": "/desafiob2w/static/js/runtime~main.5f787e8e.js",
-  "runtime~main.js.map": "/desafiob2w/static/js/runtime~main.5f787e8e.js.map",
-  "static/js/2.04bb237e.chunk.js": "/desafiob2w/static/js/2.04bb237e.chunk.js",
-  "static/js/2.04bb237e.chunk.js.map": "/desafiob2w/static/js/2.04bb237e.chunk.js.map",
-  "index.html": "/desafiob2w/index.html",
-  "precache-manifest.ca4c922929fe4e0b1a4e65686d37fa34.js": "/desafiob2w/precache-manifest.ca4c922929fe4e0b1a4e65686d37fa34.js",
-  "service-worker.js": "/desafiob2w/service-worker.js",
-  "static/css/main.e98e56b0.chunk.css.map": "/desafiob2w/static/css/main.e98e56b0.chunk.css.map",
-  "static/media/star.svg": "/desafiob2w/static/media/star.ec263c0f.svg",
-  "static/media/wars.svg": "/desafiob2w/static/media/wars.7a4f0f41.svg"
+  "main.css": "/starwarsB2W/static/css/main.292f57bd.chunk.css",
+  "main.js": "/starwarsB2W/static/js/main.a2d7a089.chunk.js",
+  "main.js.map": "/starwarsB2W/static/js/main.a2d7a089.chunk.js.map",
+  "runtime~main.js": "/starwarsB2W/static/js/runtime~main.95d67f34.js",
+  "runtime~main.js.map": "/starwarsB2W/static/js/runtime~main.95d67f34.js.map",
+  "static/js/2.04bb237e.chunk.js": "/starwarsB2W/static/js/2.04bb237e.chunk.js",
+  "static/js/2.04bb237e.chunk.js.map": "/starwarsB2W/static/js/2.04bb237e.chunk.js.map",
+  "index.html": "/starwarsB2W/index.html",
+  "precache-manifest.ee02b70dd9dd776086ee2f98185d92fb.js": "/starwarsB2W/precache-manifest.ee02b70dd9dd776086ee2f98185d92fb.js",
+  "service-worker.js": "/starwarsB2W/service-worker.js",
+  "static/css/main.292f57bd.chunk.css.map": "/starwarsB2W/static/css/main.292f57bd.chunk.css.map",
+  "static/media/star.svg": "/starwarsB2W/static/media/star.ec263c0f.svg",
+  "static/media/wars.svg": "/starwarsB2W/static/media/wars.7a4f0f41.svg"
 }

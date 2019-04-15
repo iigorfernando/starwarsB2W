@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/desafiob2w/precache-manifest.ca4c922929fe4e0b1a4e65686d37fa34.js"
+  "/starwarsB2W/precache-manifest.ee02b70dd9dd776086ee2f98185d92fb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/desafiob2w/index.html", {
+workbox.routing.registerNavigationRoute("/starwarsB2W/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
