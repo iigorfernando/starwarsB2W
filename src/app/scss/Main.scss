@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700');
+
+
+@import 'functions';
+@import 'keyframes';
+@import 'variables';
+@import 'mixins';
+@import 'reset';
+@import 'buttons';
+@import 'container';
+html {
+  height: 100%;
+  background: $black;
+  overflow: hidden;
+  font-family: $font;
+  @include fontStyle($white, 1rem, $font-regular);
+}
+
+.title{
+  @include fontStyle($white, 3rem, $font-extrabold);
+}
+  
+
+.star {
+  &.star--small{
+    @include animationStars(1px, $shadows-small, 50s);
+  }
+
+  &.star--medium{
+    @include animationStars(2px, $shadows-medium, 100s);
+  }
+
+  &.star--large{
+    @include animationStars(3px, $shadows-large, 150s);
+  }     
+}
+  

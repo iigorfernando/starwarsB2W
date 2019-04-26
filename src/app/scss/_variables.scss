@@ -1,0 +1,29 @@
+
+/* All Variables of Application */
+
+/* Font Settings */
+$font: 'Raleway', sans-serif;
+
+$font-extralight: 100;
+$font-light: 200;
+$font-semilight: 300;
+$font-regular: 400;
+$font-semibold: 500;
+$font-bold: 600;
+$font-extrabold: 700;
+
+
+/* Color Settings */
+$black: #000000;
+$white: #FFFFFF;
+$yellow: #FFE62C;
+$red: #dc1716;
+
+
+
+/* Star Effect Settings */
+$shadows-small: multiple-box-shadow(750);
+$shadows-medium: multiple-box-shadow(300);
+$shadows-large: multiple-box-shadow(130);
+
+$rotateAnimation: sk-rotateplane 1.2s infinite ease-in-out;
